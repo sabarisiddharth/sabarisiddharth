@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 👋  
 
-Hi there! I'm a developer passionate about **Cloud Engineering**, **Python**, and building innovative **software solutions**.  
+Hi there! I'm a developer passionate about **Cloud Engineering**, **Python**, and building innovative **software solutions and machine learning models**.  
 
 ## 🌟 Interests  
 - 🚀 Designing scalable applications on cloud platforms like **AWS**  
